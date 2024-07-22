@@ -5,12 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Main Menu/MainMenu.unity
     guid: 7c68403ca40353843b92be89e0ac402c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Dover/Dover.unity
     guid: 31d48bc0d106e9c4388420c8c34a94b7
+  - enabled: 1
+    path: Assets/Oculus/VR/Scenes/GearVrControllerTest.unity
+    guid: d56af3aeb2176e7459f753c1c2e2dd97
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 54c06bda35cc5034b91bbe192f549101,
       type: 2}
